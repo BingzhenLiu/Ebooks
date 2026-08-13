@@ -1,0 +1,1 @@
+﻿import os; from pathlib import Path; p = Path(r'D:\personalprofile\电子书\大雁塔\translate_epub\output\progress.json'); print('exists:', p.exists()); print('size:', p.stat().st_size); data = 'hello world'; target = str(p); print('target:', target); try: open(target, 'w', encoding='utf-8').write(data); print('OK'); except OSError as e: print('ERR:', e)
