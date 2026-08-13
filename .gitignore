@@ -1,5 +1,3 @@
-*.epub
-*.pdf
 __pycache__/
 *.pyc
 *.log
