@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 *.log
+大雁塔/translate_epub/output/
+大雁塔/translate_epub/_e.b64
+大雁塔/translate_epub/_p2.bat
+大雁塔/translate_epub/translate.log.err
+*.mp4
