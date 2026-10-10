@@ -52,3 +52,13 @@
 | 46 | `金钱心理学 (全新增订版) (摩根·豪泽尔) (z-library.sk, 1lib.sk, z-lib.sk).epub` | `金融投资\道\金钱心理学（全新增订版） - 摩根·豪泽尔.epub` |
 | 47 | `原则（实践版）（桥水创始人、《原则》作者瑞·达利欧再解原则，赢取想要的人生） (瑞·达利欧) (z-library.sk, 1lib.sk, z-lib.sk).epub` | `金融投资/道/原则（实践版） - 瑞·达利欧.epub` |
 | 48 | `瑞·达利欧系列：原则+债务危机（套装共2册） (瑞·达利欧（Ray Dalio）) (z-library.sk, 1lib.sk, z-lib.sk).epub` | `金融投资/合集/原则+债务危机（套装2册） - 瑞·达利欧.epub` |
+
+| 49 | `每日交易心理训练 101条规则把您训练成交易心理学专家 (Pdg2Pic, （美）布里特·N.斯蒂恩博格著) (z-library.sk, 1lib.sk, z-lib.sk).pdf` | `金融投资/道/每日交易心理训练：101条规则 - 布里特·斯蒂恩博格.pdf` |
+| 50 | `《交易心理分析》中英对照第二版word (张轶) (z-library.sk, 1lib.sk, z-lib.sk).epub` | `金融投资/道/交易心理分析（中英对照第二版）.epub` |
+| 51 | `金融机器学习 (Marcos López de Prado, 马科斯·洛佩斯·德普拉多, 林华) (z-library.sk, 1lib.sk, z-lib.sk).pdf` | `金融投资/法/金融机器学习 - 马科斯·洛佩斯·德普拉多.pdf` |
+| 52 | `原子习惯：细微改变带来巨大成就的实证法则 = Atomic Habits An Easy  Proven Way to Build Good Habits  Break Bad Ones (詹姆斯 · 克利尔 (James Clear) 着  蔡世伟 译) (z-library.sk, 1lib.sk, z-lib.sk).epub` | `思维/原子习惯 - 詹姆斯·克利尔.epub` |
+| 53 | `[Downloads] 重塑学习型大脑  12个脑科学原理,规避学不进去, 学完就忘的学习陷阱 = Stop Talking… .epub` | `思维/重塑学习型大脑：12个脑科学原理.epub` |
+| 54 | `[Downloads] 游戏化思维(全新升级版) (【美】凯文·韦巴赫,丹·亨特).epub` | `商业/游戏化思维（全新升级版） - 凯文·韦巴赫、丹·亨特.epub` |
+| 55 | `[Downloads] 金融心理学 (拉斯•特维德 [Lars Tvede]).epub` | `金融投资/道/金融心理学 - 拉斯·特维德.epub` |
+| 56 | `[Downloads] 万卷方法·合集1（社会科学研究方法工具箱）.epub` | `综合合集/万卷方法·合集1：社会科学研究方法工具箱.epub` |
+| 57 | `[Downloads] 当存钱罐爱上购物车 (斯科特·瑞克).epub` | `金融投资/道/当存钱罐爱上购物车 - 斯科特·瑞克.epub` |
